@@ -1,0 +1,12 @@
+{
+    "name": "modulesapp",
+    "version": "1.0.0",
+    "scripts": {
+        "demon": "nodemon app.js",
+        "start": "node app.js",
+        "dev": "node app.js Ega 19"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
